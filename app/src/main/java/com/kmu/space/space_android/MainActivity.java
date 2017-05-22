@@ -1,4 +1,4 @@
-package com.example.leedongwoo.universalproject;
+package com.kmu.space.space_android
 
 import android.content.Intent;
 import android.os.Bundle;
